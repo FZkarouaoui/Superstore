@@ -7,11 +7,11 @@ This analysis is also performed based on customer segments, product categories, 
 
 # Dashboard Preview
 ## Main Dashboard
-![Page Dashboard](image/Dashboard.png)
+![Page Dashboard](/Image/Dashboard.png)
 ---
 
 ## Interactive Analysis Page
-![Page Slicer](image/Slicer.png)
+![Page Slicer](/Image/Slicer.png)
 ---
 
 # Download
